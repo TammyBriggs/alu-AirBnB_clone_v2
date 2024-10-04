@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """This is the file storage class for AirBnB"""
+=======
+"""the file storage class"""
+>>>>>>> 5ed9be95a2fe263cfb8884da4d0d012a072dcd97
 import json
 from models.base_model import BaseModel
 from models.user import User
